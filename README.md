@@ -1,2 +1,68 @@
 # PINTEREST-ASYNC
 En este proyecto realizaremos una réplica de pinterest.
+
+Características
+
+- Carga Asíncrona: Utiliza async/await y promesas para recuperar y renderizar imágenes de forma dinámica.
+
+- Diseño Responsive: Interfaz adaptativa que optimiza la visualización en distintos dispositivos.
+
+- Búsqueda y Filtros: Permite buscar imágenes y aplicar filtros para mejorar la experiencia de navegación.
+
+- Interfaz Inspirada en Pinterest: Una disposición de imágenes en grid que imita el estilo visual de Pinterest.
+
+
+Tecnologías Utilizadas
+
+  Frontend:
+
+- HTML5, CSS3 y JavaScript (ES6+)
+
+  Backend:
+
+- Node.js y Express (si el proyecto incluye un servidor)
+
+- Programación Asíncrona:
+
+- Uso intensivo de async/await y promesas para gestionar peticiones.
+
+
+
+Instalación
+
+- Clonar el Repositorio:
+
+Abre tu terminal y ejecuta:
+
+git clone https://github.com/MSS1410/PINTEREST-ASYNC.git
+cd "PINTEREST-ASYNC"
+
+- Instalar Dependencias:
+  
+npm install
+
+
+Ejecutar el Proyecto:
+
+npm start
+
+
+Uso
+
+- Inicio: La página principal muestra un grid de imágenes que se cargan asíncronamente.
+
+- Búsqueda: Utiliza la barra de búsqueda para filtrar imágenes por palabra clave.
+
+- Interacción: Haz clic en una imagen para verla en detalle (si el proyecto implementa esa funcionalidad).
+
+Estructura del Proyecto
+
+- /public: Archivos estáticos (HTML, CSS, JavaScript, imágenes locales).
+
+- /server (o /api): Código del backend, incluyendo controladores y rutas.
+
+- package.json: Define las dependencias y scripts para la aplicación.
+
+
+
+
