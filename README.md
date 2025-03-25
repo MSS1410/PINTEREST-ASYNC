@@ -26,20 +26,27 @@ Tecnologías Utilizadas
 
 - Uso intensivo de async/await y promesas para gestionar peticiones.
 
+CONFIG:
+
+VITE_ACCESS_KEY=nDC3_4_pfKguepnTtZERJK_VbDXMXlLIp7brhdQpNMs
 
 
 Instalación
 
-- Clonar el Repositorio:
+1. **Clona el repositorio:**
 
-Abre tu terminal y ejecuta:
+   ```bash
+   git clone https://github.com/MSS1410/PINTEREST-ASYNC.git
 
-git clone https://github.com/MSS1410/PINTEREST-ASYNC.git
-cd "PINTEREST-ASYNC"
+   
 
 - Instalar Dependencias:
   
 npm install
+
+CONFIG:
+
+VITE_ACCESS_KEY=nDC3_4_pfKguepnTtZERJK_VbDXMXlLIp7brhdQpNMs
 
 
 Ejecutar el Proyecto:
@@ -47,6 +54,7 @@ Ejecutar el Proyecto:
 npm run dev
 
 control + click en http://localhost:5174/
+
 
 Uso
 
