@@ -44,8 +44,9 @@ npm install
 
 Ejecutar el Proyecto:
 
-npm start
+npm run dev
 
+control + click en http://localhost:5174/
 
 Uso
 
